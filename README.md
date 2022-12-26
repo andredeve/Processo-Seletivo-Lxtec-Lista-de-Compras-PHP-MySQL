@@ -1,12 +1,12 @@
 # ✨Processo-Seletivo-Lxtec-Lista-de-Compras-PHP-MySQL
 Desafio apresentado ao processo seletivo para a vaga de Desenvolvedor Full Stack PHP da empresa Lxtec.
 # 🛠 Stack utilizada
-<a href="https://www.php.net/docs.php">- PHP <a>
-<a href="https://fontawesome.com/">- FontAwesome <a>
-<a href="https://getbootstrap.com/">- Bootstrap <a>
-<a href="https://www.mysql.com/">- MySQL <a>
-<a href="https://jquery.com/">- JQuery <a>
-<a href="https://www.javascript.com/">- JavaScript <a>
+<a href="https://www.php.net/docs.php">- PHP <a></br>
+<a href="https://fontawesome.com/">- FontAwesome <a></br>
+<a href="https://getbootstrap.com/">- Bootstrap <a></br>
+<a href="https://www.mysql.com/">- MySQL <a></br>
+<a href="https://jquery.com/">- JQuery <a></br>
+<a href="https://www.javascript.com/">- JavaScript <a></br>
 
 
 
