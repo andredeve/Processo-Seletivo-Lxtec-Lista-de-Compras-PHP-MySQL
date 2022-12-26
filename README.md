@@ -1,7 +1,7 @@
 # ✨Processo-Seletivo-Lxtec-Lista-de-Compras-PHP-MySQL
 Desafio apresentado ao processo seletivo para a vaga de Desenvolvedor Full Stack PHP da empresa Lxtec.
 # 🛠 Stack utilizada
-Back-end: PHP 7.4 - Front-end: HTML, JavaScript, JQuery - Banco de dados: MySQL
+Back-end: PHP 7.4 - Front-end: HTML, JavaScript, JQuery - Banco de dados: MySQL</br>
 <a href="https://www.php.net/docs.php">- PHP <a></br>
 <a href="https://fontawesome.com/">- FontAwesome <a></br>
 <a href="https://getbootstrap.com/">- Bootstrap <a></br>
