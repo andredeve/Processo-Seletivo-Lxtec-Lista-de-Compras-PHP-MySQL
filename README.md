@@ -17,8 +17,8 @@ Back-end: PHP 7.4 - Front-end: HTML, JavaScript, JQuery - Banco de dados: MySQL<
 - O sistema deverá possibilitar cadastrar, editar e remover listas e itens;
 - O sistema deverá mostrar as listas e os itens de forma organizada (ficando a seu critério a maneira que será exibido);
 - O sistema deverá ter uma tela que liste a quantidade de produtos por período. Assim, se o produto constar em duas listas, o
-sistema deverá mostrar o produto e total de quantidade. Ex: Lista de Novembro tem 1 arroz e na lista de Dezembro tem 2 arrozes,
-se eu listar de Novembro até Dezembro deverá aparecer “arroz” na lista com quantidade 3.
+sistema deverá mostrar o produto e total de quantidade.
+- Ex: Lista de Novembro tem 1 arroz e na lista de Dezembro tem 2 arrozes, se eu listar de Novembro até Dezembro deverá aparecer “arroz” na lista com quantidade 3.
 
 # 📫 Referência
 <a href="https://www.w3schools.com/">- W3Schools <a></br>
